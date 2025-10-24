@@ -1,7 +1,6 @@
  # why did it break
 
-<p align="center">
-  <text src="https://capsule-render.vercel.app/api?text=
+ <center> meows </center> 
 
 one is the loneliest number that you'll ever do、、
 
