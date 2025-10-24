@@ -1,11 +1,11 @@
-# wh a  t
-!!this one is for pony town!!
+ # wh a t
 
-aoshi, 15 — minor, adults iwc. check sp for more info, plz
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=
 
-interact and c+h freely unless stated otherwise, i love people
+one is the loneliest number that you'll ever do、、
 
-if you wanna be my friend - interact w me and maybe send me a friend req. .. .
+pseudo — aoshi/chilly!! you *can* give me silly nicknames, i'm not against it  |･ω･)
 
 im anxious when in comes to interacting first so i suggest YOU interact with me first. I'll never interact 1st unless i like your skin 
 
