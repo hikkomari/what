@@ -1,7 +1,7 @@
- # wh a t
+ # why did it break
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=
+  <text src="https://capsule-render.vercel.app/api?text=
 
 one is the loneliest number that you'll ever do、、
 
