@@ -1,8 +1,6 @@
  # why did it break
 
- <center> meows </center> 
-
-one is the loneliest number that you'll ever do、、
+ <p align="center">one is the loneliest number that you'll ever do、、</p>
 
 pseudo — aoshi/chilly!! you *can* give me silly nicknames, i'm not against it  |･ω･)
 
